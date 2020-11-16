@@ -9,7 +9,7 @@ This program can read multiply historical stock price CSV files downloaded from 
 
 
 
-<img src="https://github.com/y5mei/Saved-Pictures/blob/master/readCSV.gif" style="zoom:100%;"/>
+<img src="https://github.com/y5mei/Saved-Pictures/blob/master/readCSV.gif" style="zoom:70%;"/>
 
 
 

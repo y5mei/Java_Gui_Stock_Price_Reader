@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DataReader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DataReader_jar</output-path>
+    <root id="archive" name="DataReader.jar">
+      <element id="module-output" name="DataReader" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jfreechart-1.0.19/jfreechart-1.0.19-demo.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jcommon-1.0.23/jcommon-1.0.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/jcommon-1.0.23/jcommon-xml-1.0.23.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
